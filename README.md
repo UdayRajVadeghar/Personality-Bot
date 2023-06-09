@@ -7,7 +7,7 @@ Requirements:
 1) JSON
 2) RE
 
-Steps:-
+Steps/info
 
 1) Load in the code which is provided 
 2) main.py is the main code where in the json file is loaded
