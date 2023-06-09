@@ -1,0 +1,87 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": ["hello", "hi", "hey"],
+    "bot_response": "Hey there!",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["how", "are", "you", "sup","supp","whats","up","doing"],
+    "bot_response": "I am doing great! Thanks for asking. May i know how are you? :)",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["good", "i", "great","am","doing","awesome"],
+    "bot_response": "Glad to hear that. How may I help you?",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["hello", "hi", "hey"],
+    "bot_response": "Hey there!",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["see you", "goodbye", "bye", "cya","take care"],
+    "bot_response": "See you later!",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["nice", "to", "meet", "you"],
+    "bot_response": "The pleasure is all mine!",
+    "required_words": ["nice", "meet", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "learn", "code", "coding", "apps"],
+    "bot_response": "Start by typing: 'How to learn coding' on Google.",
+    "required_words": ["learn", "code"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["refund", "how", "can", "I", "get"],
+    "bot_response": "We don't offer refunds for free education.",
+    "required_words": ["refund", "i"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "are", "you"],
+    "bot_response": "I'm great! Thanks for asking.",
+    "required_words": ["how", "are", "you"]
+  },
+  {
+    "response_type": "joke",
+    "user_input": ["joke","crack"],
+    "bot_response": "Why do Python developers prefer Macs? Because they don't like Windows snakes.",
+    "required_words": []
+  },
+  {
+    "response_type": "joke",
+    "user_input": ["joke","crack"],
+    "bot_response": "Why was the computer cold? Because it left its Windows open",
+    "required_words": []
+  },
+  {
+    "response_type": "answer",
+    "user_input": ["haha", "lol","funny","hehe","xd","lmao"],
+    "bot_response": "I am glad you found that funny.",
+    "required_words": []
+  },
+  {
+    "response_type": "answer",
+    "user_input": ["okay","i see","ohh","ok","k","nice"],
+    "bot_response": "ohhn yeahh <3",
+    "required_words": []
+  },
+  {
+    "response_type": "answer",
+    "user_input": ["/info"],
+    "bot_response": "This bot is still in developing stage and limited to non-complex commands. To get an information about this group you may ask bot simple questions",
+    "required_words": []
+  }
+
+]
